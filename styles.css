@@ -1,0 +1,52 @@
+.btn{
+    border-radius: 4px;
+    margin-top: 10px; 
+    background-color:red; 
+    color:white; 
+    width: 120px;
+}
+
+.list{
+    list-style-type:lower-alpha;
+}
+
+#div{
+    background-color: white; 
+    width: 520px;
+    height: 300px; 
+    border-color: black;
+     border-style:solid;
+     padding: 10px;
+}
+
+table,th,td {
+    border: 2px solid  black;
+    border-collapse: collapse;
+    
+}
+
+table{
+    width: 550px;
+    height: 300px;
+}
+
+td{
+    text-align: center;
+}
+
+.input{
+    margin-top: 20px;
+}
+
+.input1{
+    margin-top: 30px;
+}
+.select{
+    margin-top: 20px;
+
+}
+#input2{
+    margin-top: 20px;
+    
+
+}
